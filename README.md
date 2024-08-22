@@ -33,3 +33,7 @@ Smart Home Integration: Connect with smart devices to automate responses to weat
 #SkyWatch #WeatherApp #TechInnovation #Streamlit #DataVisualization #WeatherForecast #Python #DataScience #AI #MachineLearning #Innovation #TechCommunity #LinkedInTech
 
 ✨ Experience weather forecasting like never before with SkyWatch—where precision meets beauty! 🌤️
+
+project-working:
+
+https://github.com/user-attachments/assets/4e716cc7-f383-4755-ba8a-ab6b2a076cc8
